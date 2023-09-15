@@ -7,7 +7,7 @@
 # 4) Create a print statement to display your variable when your code is run.
 
 # 5) Run the program.
-
+#test commit
 # 6) Hit enter twice. Then hit Tab once or Space four times.
 
 # 7) Create a variable and set it equal to "your favorite hobby". Make sure the variable follows all the variable naming rules.
