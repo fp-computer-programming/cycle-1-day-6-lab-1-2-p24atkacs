@@ -19,3 +19,4 @@ y="gym"
 # 8) Create a print statement to display your variable when your code is run.
 print (y)
 # 9) What happens when you run the program again?
+    #due to improper indentation, the program did not run correctly.  I have fixed the issue.
